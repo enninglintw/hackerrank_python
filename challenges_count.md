@@ -3,4 +3,5 @@
 12  Solved      Easy    Strings
 12  Solved      Easy    Sets
 4   Solved      Easy    Math
-4   Unsolved    Easy    Itertools
+4   Solved      Easy    Itertools
+5   Unsolved    Easy    Collections
